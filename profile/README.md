@@ -1,6 +1,6 @@
 # Rimnam Tech
 
-![cover](https://github.com/rimnam-tech/.github/blob/0abdb6a58156f0d66250c645275ed80b0a99dabe/src/rimnam-tech-banner.png)
+![cover](https://github.com/rimnam-tech/.github/blob/d8e9b7cdc9eb36be2bfb82306143f504fc6aa91d/src/rimnam-tech-banner.png)
 
 ### Filling Every Dream
 
